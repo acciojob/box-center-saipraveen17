@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.container {
+	background-color:lightblue;
+	height:250px;
+	width:250px;
+	border:solid 2px black;
+	text-align:center;
+}
+.centre {
+	color:purple;
+	margin-top:100px;
+}
